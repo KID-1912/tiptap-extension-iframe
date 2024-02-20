@@ -1,0 +1,19 @@
+{
+  "name": "tiptap-extension-iframe",
+  "version": "1.0.0",
+  "description": "A tiptap extension that inserts custom iframe.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kid-1912",
+  "homepage": "https://github.com/KID-1912/tiptap-extension-iframe",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KID-1912/tiptap-extension-iframe.git"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "@tiptap/core": "^2.2.3"
+  }
+}
