@@ -6,6 +6,11 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "keywords": [
+    "tiptap",
+    "extension",
+    "iframe"
+  ],
   "author": "kid-1912",
   "homepage": "https://github.com/KID-1912/tiptap-extension-iframe",
   "repository": {
